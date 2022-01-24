@@ -1,0 +1,9 @@
+package application;
+
+public class Main {
+	public static void main(String[] args) {
+		//escreva("Olá mundo")
+		System.out.print("Olá mundo");
+		System.out.println("Olá mundo");
+	}
+}
